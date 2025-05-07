@@ -1,9 +1,5 @@
 <h1 align="center">👋 Welcome to Shong's GitHub!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Back-end+Developer+in+progress;Java+%7C+Spring+%7C+MyBatis+%7C+JPA;Learning+every+single+day+🌱" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -69,8 +65,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Commitizen-EF6C00?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
 </p>
 
