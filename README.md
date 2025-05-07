@@ -9,10 +9,12 @@
 - ✏️ 학습한 내용을 기록하며 성장하고 있습니다.  
 - 📝 기술 블로그에 회고 및 학습 내용을 꾸준히 정리 중입니다.
 
-- 🌱 현재 공부 중: `Spring Security`, `JWT`, `JPA`
-- 📘 기술 블로그: [Velog](https://velog.io/@shong69/posts)
-- 📫 이메일: shong7576@gmail.com
-- 🛠 깃 커밋 컨벤션: [`git cz`](https://github.com/commitizen/cz-cli)
+| 항목               | 내용                                                   |
+|------------------|------------------------------------------------------|
+| 🌱 현재 공부 중...     | `Spring Security`, `JWT`, `JPA`                        |
+| 📘 기술 블로그       | [shong's Velog](https://velog.io/@shong69/posts)                |
+| 📫 이메일           | shong7576@gmail.com                                    |
+| 🛠 깃 커밋 컨벤션     | [`git cz`](https://github.com/commitizen/cz-cli)        |
 
 ---
 
@@ -37,43 +39,13 @@
 ---
 ## 🛠 Tech Stack
 
-### 🔹 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-FF5733?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP/Servlet-2C2255?style=flat&logo=java&logoColor=white"/>
-</p>
-
-### 🔹 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
-</p>
-
-### 🔹 Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-</p>
-
-### 🔹 Tools & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Commitizen-EF6C00?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
-</p>
-
-### 📚 Studying Now
-<p>
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-</p>
+| 카테고리           | 기술 및 배지                                                                                          |
+|------------------|------------------------------------------------------------------------------------------------------|
+| 🔹 Backend       | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-FF5733?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/JSP/Servlet-2C2255?style=flat&logo=java&logoColor=white"/> |
+| 🔹 Frontend      | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/> |
+| 🔹 Database      | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> |
+| 🔹 Tools & Collaboration | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Commitizen-EF6C00?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/> |
+| 📚 Studying Now  | <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> |
 
 ---
 
