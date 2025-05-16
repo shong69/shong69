@@ -27,7 +27,7 @@
 ## 📂 Portfolio Highlights
 
 📌 **협업 역량**  
-- Azure, Notion, GitHub 등 다양한 협업 도구 사용 경험  
+- Azure DevOps, Notion, GitHub 등 다양한 협업 도구 사용 경험  
 - 팀 내 역할 분담 및 코드 리뷰, 문서화를 통한 체계적 협업 경험
 
 📌 **기획/설계**  
